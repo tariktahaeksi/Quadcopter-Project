@@ -41,7 +41,7 @@ drone-pid-control/
 
 The Android application features dual joystick control and a real-time connectivity indicator. Commands are sent over UDP, and the drone responds with acknowledgment signals.
 
-![Android Interface](media/android_interface.jpg)
+![Android Interface](media/android_interface.png)
 
 ## 🧠 Control Algorithm
 
