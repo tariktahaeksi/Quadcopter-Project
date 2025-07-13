@@ -35,13 +35,13 @@ drone-pid-control/
 └── LICENSE
 ```
 
-![System Diagram](media/system_diagram.png)
+![System Diagram](media/system_diagram.jpg)
 
 ## 📱 Android App Interface
 
 The Android application features dual joystick control and a real-time connectivity indicator. Commands are sent over UDP, and the drone responds with acknowledgment signals.
 
-![Android Interface](media/android_interface.png)
+![Android Interface](media/android_interface.jpg)
 
 ## 🧠 Control Algorithm
 
@@ -55,7 +55,7 @@ The stabilization is achieved using a complementary filter (80% gyro, 20% accele
 
 The image below shows how the ESCs, motors, power source, and Pico W are connected:
 
-![Motor Wiring](media/motor_connection_diagram.png)
+![Motor Wiring](media/motor_connection_diagram.jpg)
 
 ## 🔧 Component Overview
 
