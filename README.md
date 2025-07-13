@@ -67,11 +67,13 @@ The image below shows how the ESCs, motors, power source, and Pico W are connect
   <img src="media/esc_module.png" alt="ESC" width="150"/>
 </p>
 
-<p align="center">
-  <b>Raspberry Pi Pico</b>&nbsp;&nbsp;&nbsp;&nbsp;
-  <b>MPU6050</b>&nbsp;&nbsp;&nbsp;&nbsp;
-  <b>ESC Module</b>
-</p>
+<table align="center">
+  <tr>
+    <td align="center"><b>Raspberry Pi Pico</b></td>
+    <td align="center"><b>MPU6050</b></td>
+    <td align="center"><b>ESC Module</b></td>
+  </tr>
+</table>
 
 <p align="center">
   <img src="media/brushless_motor.jpg" alt="Motor" width="150"/>
@@ -81,11 +83,14 @@ The image below shows how the ESCs, motors, power source, and Pico W are connect
   <img src="media/lipo_battery.jpg" alt="Battery" width="150"/>
 </p>
 
-<p align="center">
-  <b>Brushless Motor</b>&nbsp;&nbsp;&nbsp;&nbsp;
-  <b>TP4056</b>&nbsp;&nbsp;&nbsp;&nbsp;
-  <b>Li-ion Battery</b>
-</p>
+<table align="center">
+  <tr>
+    <td align="center"><b>Brushless Motor</b></td>
+    <td align="center"><b>TP4056</b></td>
+    <td align="center"><b>Li-ion Battery</b></td>
+  </tr>
+</table>
+
 
 ## 🛠 Technologies Used
 
