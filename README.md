@@ -64,7 +64,7 @@ The image below shows how the ESCs, motors, power source, and Pico W are connect
   &nbsp;&nbsp;
   <img src="media/mpu6050.jpg" alt="MPU6050" width="150"/>
   &nbsp;&nbsp;
-  <img src="media/esc_module.jpg" alt="ESC" width="150"/>
+  <img src="media/esc_module.png" alt="ESC" width="150"/>
 </p>
 
 <p align="center">
