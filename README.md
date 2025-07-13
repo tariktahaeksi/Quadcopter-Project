@@ -51,14 +51,41 @@ The stabilization is achieved using a complementary filter (80% gyro, 20% accele
 
 ![Drone Demo](media/demo.gif)
 
-> Or add a link to a video:  
-> [▶️ Watch the demo video](https://your-video-link.com)
-
 ## 🧰 Hardware Wiring
 
 The image below shows how the ESCs, motors, power source, and Pico W are connected:
 
 ![Motor Wiring](media/motor_connection_diagram.png)
+
+## 🔧 Component Overview
+
+<p align="center">
+  <img src="media/raspberry_pi_pico.jpg" alt="Pico" width="150"/>
+  &nbsp;&nbsp;
+  <img src="media/mpu6050.jpg" alt="MPU6050" width="150"/>
+  &nbsp;&nbsp;
+  <img src="media/esc_module.jpg" alt="ESC" width="150"/>
+</p>
+
+<p align="center">
+  <b>Raspberry Pi Pico</b>&nbsp;&nbsp;&nbsp;&nbsp;
+  <b>MPU6050</b>&nbsp;&nbsp;&nbsp;&nbsp;
+  <b>ESC Module</b>
+</p>
+
+<p align="center">
+  <img src="media/brushless_motor.jpg" alt="Motor" width="150"/>
+  &nbsp;&nbsp;
+  <img src="media/tp4056.jpg" alt="TP4056" width="150"/>
+  &nbsp;&nbsp;
+  <img src="media/lipo_battery.jpg" alt="Battery" width="150"/>
+</p>
+
+<p align="center">
+  <b>Brushless Motor</b>&nbsp;&nbsp;&nbsp;&nbsp;
+  <b>TP4056</b>&nbsp;&nbsp;&nbsp;&nbsp;
+  <b>Li-ion Battery</b>
+</p>
 
 ## 🛠 Technologies Used
 
