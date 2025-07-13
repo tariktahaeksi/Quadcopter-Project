@@ -1,0 +1,36 @@
+
+# ===== PYTHON / MICROPYTHON =====
+__pycache__/
+*.pyc
+*.pyo
+*.mpy
+*.log
+
+# Thonny / VSCode / REPL history
+*.vscode
+*.code-workspace
+*.swp
+.history
+
+# ===== ANDROID / ANDROID STUDIO =====
+*.iml
+.gradle/
+build/
+captures/
+.externalNativeBuild/
+.cxx/
+.idea/
+local.properties
+
+# APK and binary outputs
+*.apk
+*.ap_
+*.dex
+
+# Logs and temporary files
+*.log
+*.tmp
+
+# OS-specific
+.DS_Store
+Thumbs.db
