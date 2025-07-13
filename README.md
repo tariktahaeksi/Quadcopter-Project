@@ -16,23 +16,34 @@ This project involves the development of a custom-built quadcopter system contro
 
 ```
 drone-pid-control/
-├── code/               # MicroPython source code for Raspberry Pi Pico W
+├── code/                   # MicroPython source code for the flight controller
 │   ├── main.py
 │   ├── mpu6050.py
-│   └── udp_server.py
+│   ├── udp_server.py
+│   ├── pid.py
+│   └── esc.py
 │
-├── android_app/        # Android Studio Kotlin code
+├── android_app/            # Android app source code (UDP control interface)
 │   ├── MainActivity.kt
-│   └── JoystickView.kt
+│   ├── JoystickView.kt
+│   ├── UdpClient.kt
+│   ├── activity_main.xml
+│   └── AndroidManifest.xml
 │
-├── media/              # Images or demo GIFs
-│   ├── demo.gif
+├── media/                  # Images, diagrams, and demo visuals
+│   ├── raspberry_pi_pico.jpg
+│   ├── mpu6050.jpg
+│   ├── esc_module.png
+│   ├── brushless_motor.jpg
+│   ├── tp4056.jpg
+│   ├── lipo_battery.jpg
 │   ├── system_diagram.png
-│   ├── android_interface.png
-│   └── motor_connection_diagram.png
+│   ├── filter_chart.png
+│   └── demo.gif
 │
-├── README.md
-└── LICENSE
+├── README.md               # Main project documentation (with visuals)
+├── LICENSE                 # MIT License file
+└── .gitignore              # (optional) Files to be ignored by Git
 ```
 
 ![System Diagram](media/system_diagram.png)
