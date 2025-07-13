@@ -59,37 +59,37 @@ The image below shows how the ESCs, motors, power source, and Pico W are connect
 
 ## 🔧 Component Overview
 
-<p align="center">
-  <img src="media/raspberry_pi_pico.jpg" alt="Pico" width="150"/>
-  &nbsp;&nbsp;
-  <img src="media/mpu6050.jpg" alt="MPU6050" width="150"/>
-  &nbsp;&nbsp;
-  <img src="media/esc_module.png" alt="ESC" width="150"/>
-</p>
-
 <table align="center">
   <tr>
-    <td align="center"><b>Raspberry Pi Pico</b></td>
-    <td align="center"><b>MPU6050</b></td>
-    <td align="center"><b>ESC Module</b></td>
+    <td align="center">
+      <img src="media/raspberry_pi_pico.jpg" alt="Pico" width="150"/><br>
+      <b>Raspberry Pi Pico</b>
+    </td>
+    <td align="center">
+      <img src="media/mpu6050.jpg" alt="MPU6050" width="150"/><br>
+      <b>MPU6050</b>
+    </td>
+    <td align="center">
+      <img src="media/esc_module.png" alt="ESC" width="150"/><br>
+      <b>ESC Module</b>
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      <img src="media/brushless_motor.jpg" alt="Motor" width="150"/><br>
+      <b>Brushless Motor</b>
+    </td>
+    <td align="center">
+      <img src="media/tp4056.jpg" alt="TP4056" width="150"/><br>
+      <b>TP4056</b>
+    </td>
+    <td align="center">
+      <img src="media/lipo_battery.jpg" alt="Battery" width="150"/><br>
+      <b>Li-ion Battery</b>
+    </td>
   </tr>
 </table>
 
-<p align="center">
-  <img src="media/brushless_motor.jpg" alt="Motor" width="150"/>
-  &nbsp;&nbsp;
-  <img src="media/tp4056.jpg" alt="TP4056" width="150"/>
-  &nbsp;&nbsp;
-  <img src="media/lipo_battery.jpg" alt="Battery" width="150"/>
-</p>
-
-<table align="center">
-  <tr>
-    <td align="center"><b>Brushless Motor</b></td>
-    <td align="center"><b>TP4056</b></td>
-    <td align="center"><b>Li-ion Battery</b></td>
-  </tr>
-</table>
 
 
 ## 🛠 Technologies Used
